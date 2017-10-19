@@ -1,1 +1,3 @@
 Here is some text that we are adding to demo.txt
+
+Adding another line to the text.
