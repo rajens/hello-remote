@@ -14,4 +14,4 @@ Can't remember the language? No problem! Just visit one of these resources:
 
 [Markdown CheatSheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-CheatSheet)
 
-[Learn Markdown in 60 seconds by CommonMark.org(http://commonmark.org/help/)
+[Learn Markdown in 60 seconds by CommonMark.org](http://commonmark.org/help/)
